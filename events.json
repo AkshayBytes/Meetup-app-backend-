@@ -1,0 +1,183 @@
+ [
+    {
+        "id": 1,
+        "eventName": "Tech Conference",
+        "eventTime": "7:00:00 AM IST",
+        "eventDate": "Thu Jul 13 2023",
+        "eventImgUrl": 
+"https://placehold.co/600x400?text=Hello+World",
+        "eventType": "offline",
+        "hostedBy": "Tech Experts",
+        "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "additionalInformation": {
+                "dressCode":"Casuals",
+                "ageRestriction": "30 and above"
+        },
+        "eventTags": ["computer specialist","Artificial Inteligence"],
+        "eventEnding": "Thu Jul 13 2023 at 10:00:00 PM",
+        "address": "California, near santmontena church, CL",
+        "price": "2000",
+        "speakerOneimgUrl": "https://placehold.co/100x70?text=Hello+World",
+        "speakerOnename": "du plasis",
+        "speakerOnepost": "AI specialist",
+        "speakerTwoimgUrl": "https://placehold.co/100x70?text=Hello+World",
+        "speakerTwoname": "leonel Messi",
+        "speakerTwopost": "god level talent"
+                
+           
+         
+        
+      },
+      
+{
+        "id": 2,
+        "eventName": "Design Workshop",
+        "eventTime": "2:00:00 PM IST",
+        "eventDate": "Mon Jul 10 2023",
+        "eventImgUrl": 
+"https://placehold.co/600x400?text=Hello+World",
+        "eventType": "offline",
+        "hostedBy": "Design Experts",
+        "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        
+        "dressCode":"Formals",
+        "ageRestriction": "20 and above",
+        "eventTags": ["design","digital"],
+        "eventEnding": "Mon Jul 10 2023 at 11:00:00 PM",
+        "address": "Lasangels, Street number 115, RA",
+        "price": "5000",
+        "speakerOneimgUrlimgUrl": "https://placehold.co/100x70?text=Hello+World",
+        "speakerOneimgUrlname": "David Millar",
+        "speakerOneimgUrlpost": "Design Manager",
+        "speakerTwoimgUrlimgUrl": "https://placehold.co/100x70?text=Hello+World",
+        "speakerTwoimgUrlname": "Donald trump",
+        "speakerTwoimgUrlpost": "Design Specialist"
+                
+        
+         
+        
+      },
+
+        
+{
+        "id": 3,
+        "eventName": "Marketing Seminar",
+        "eventTime": "10:00:00 AM IST",
+        "eventDate": "Tue Aug 15 2023",
+        "eventImgUrl": 
+"https://placehold.co/600x400?text=Hello+World",
+        "eventType": "offline",  
+        "hostedBy": "Marketing Experts",
+        "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "additionalInformation": {
+                "dressCode":"Smart casual",
+                "ageRestriction": "18 and above"
+        },
+        "eventTags": ["marketing","digital"],
+        "eventEnding": "Tue Aug 15 2023 at 12:00:00 PM",
+        "address": "Marketing City 789 Marketing Avenue, City",
+        "price": "3000",
+        "speakerOneimgUrlimgUrl": "https://placehold.co/100x70?text=Hello+World",
+        "speakerOneimgUrlname": "Sarah Johnson",
+        "speakerOneimgUrlpost": "Martketing Manager",
+        "speakerTwoimgUrlimgUrl": "https://placehold.co/100x70?text=Hello+World",
+        "speakerTwoimgUrlname": "Micheal Brown",
+        "speakerTwoimgUrlpost": "SEO Specialist"
+
+        
+
+        
+
+        
+      }
+, 
+{
+        "id": 4,
+        "eventName": "some event",
+        "eventTime": "8:00:00 PM IST",
+        "eventDate": "Sat Jul 18 2023",
+        "eventImgUrl": 
+"https://placehold.co/600x400?text=Hello+World",
+        "eventType": "online",
+        "hostedBy": "some Experts",
+        "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "additionalInformation": {
+                "dressCode":"Smart casual",
+                "ageRestriction": "22 and above"
+        },
+        "eventTags": ["marketing","AI"],
+        "eventEnding": "Sat Jul 18 2023 at 10:00:00 PM",
+        "address": "Marketing City 789 Marketing Avenue, City",
+        "price": "3000",
+        "speakerOneimgUrlimgUrl": "https://placehold.co/100x70?text=Hello+World",
+        "speakerOneimgUrlname": "Sarah Johnson",
+        "speakerOneimgUrlpost": "Martketing Manager",
+        "speakerTwoimgUrlimgUrl": "https://placehold.co/100x70?text=Hello+World",
+        "speakerTwoimgUrlname": "Micheal Brown",
+        "speakerTwoimgUrlpost": "SEO Specialist"
+        
+
+          
+         
+        
+      },
+{
+        "id": 5,
+        "eventName": "some event",
+        "eventTime": "9:00:00 PM IST",
+        "eventDate": "Sat Jun 20 2023",
+        "eventImgUrl": 
+"https://placehold.co/600x400?text=Hello+World",
+        "eventType": "offline",
+        "hostedBy": "Experts",
+        "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "additionalInformation": {
+                "dressCode":"Formals",
+                "ageRestriction": "26 and above"
+        },
+        "eventTags": ["Accounting","Tally"],
+        "eventEnding": "Sat Jul 18 2023 at 10:00:00 PM",
+        "address": "Marketing City 789 Marketing Avenue, City",
+        "price": "3000",
+        "speakerOneimgUrlimgUrl": "https://placehold.co/100x70?text=Hello+World",
+        "speakerOneimgUrlname": "Sarah Johnson",
+        "speakerOneimgUrlpost": "Martketing Manager",
+        "speakerTwoimgUrlimgUrl": "https://placehold.co/100x70?text=Hello+World",
+        "speakerTwoimgUrlname": "Micheal Brown",
+        "speakerTwoimgUrlpost": "SEO Specialist"
+                
+         
+        
+      },
+{
+        "id": 6,
+        "eventName": "some event",
+        "eventTime": "10:00:00 PM IST",
+        "eventDate": "Fri may 15 2023",
+        "eventImgUrl": 
+"https://placehold.co/600x400?text=Hello+World",
+        "eventType": "offline",
+        "hostedBy": "Experts",
+        "details":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "additionalInformation": {
+                "dressCode":"Formals",
+                "ageRestriction": "26 and above"
+        },
+        "eventTags": ["Accounting","Tally"],
+        "eventEnding": "Sat Jul 18 2023 at 10:00:00 PM",
+        "address": "Marketing City 789 Marketing Avenue, City",
+        "price": "3000",
+        "speakerOneimgUrlimgUrl": "https://placehold.co/100x70?text=Hello+World",
+        "speakerOneimgUrlname": "Sarah Johnson",
+        "speakerOneimgUrlpost": "Martketing Manager",
+        "speakerTwoimgUrlimgUrl": "https://placehold.co/100x70?text=Hello+World",
+        "speakerTwoimgUrlname": "Micheal Brown",
+        "speakerTwoimgUrlpost": "SEO Specialist"
+                
+           
+         
+        
+      }
+
+
+]
