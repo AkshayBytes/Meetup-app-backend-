@@ -14,42 +14,42 @@ require("dotenv").config();
 app.use(express.json());
 
 
-function seedData(){
-    try {
-        for(const eventData of eventsData){
-            const newEvent = new EventInfo({
-                eventImgUrl: eventData.eventImgUrl,
-                eventName: eventData.eventName,
-                eventDate: eventData.eventDate,
-                eventTime: eventData.eventTime,
-                eventType: eventData.eventType,
-                hostedBy: eventData.hostedBy,
-                details: eventData.details,
-                dressCode: eventData.dressCode,
-                ageRestriction: eventData.ageRestriction,
-                eventTags: eventData.eventTags,
-                eventEnding: eventData.eventEnding,
-                address: eventData.address,
-                price: eventData.price,
-                speakerOneimgUrl: eventData.speakerOneimgUrl,
-                speakerOnename: eventData.speakerOnename,
-                speakerOnepost: eventData.speakerOnepost,
-                speakerTwoimgUrl: eventData.speakerTwoimgUrl,
-                speakerTwoname: eventData.speakerTwoname,
-                speakerTwopost: eventData.speakerTwopost
+// function seedData(){
+//     try {
+//         for(const eventData of eventsData){
+//             const newEvent = new EventInfo({
+//                 eventImgUrl: eventData.eventImgUrl,
+//                 eventName: eventData.eventName,
+//                 eventDate: eventData.eventDate,
+//                 eventTime: eventData.eventTime,
+//                 eventType: eventData.eventType,
+//                 hostedBy: eventData.hostedBy,
+//                 details: eventData.details,
+//                 dressCode: eventData.dressCode,
+//                 ageRestriction: eventData.ageRestriction,
+//                 eventTags: eventData.eventTags,
+//                 eventEnding: eventData.eventEnding,
+//                 address: eventData.address,
+//                 price: eventData.price,
+//                 speakerOneimgUrl: eventData.speakerOneimgUrl,
+//                 speakerOnename: eventData.speakerOnename,
+//                 speakerOnepost: eventData.speakerOnepost,
+//                 speakerTwoimgUrl: eventData.speakerTwoimgUrl,
+//                 speakerTwoname: eventData.speakerTwoname,
+//                 speakerTwopost: eventData.speakerTwopost
 
-            })
+//             })
 
-            newEvent.save();
+//             newEvent.save();
 
 
-        }
-    } catch (error) {
-          console.log("Error seeding the data", error);   
-    }
-}
+//         }
+//     } catch (error) {
+//           console.log("Error seeding the data", error);   
+//     }
+// }
 
-seedData()
+// seedData()
 
 
 async function readAllEvents(){
