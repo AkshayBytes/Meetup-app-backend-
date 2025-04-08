@@ -1,17 +1,27 @@
 const {initializeDatabase} = require("./db/db.connect");
 
-const fs = require("fs");
+// const fs = require("fs");
 const EventInfo = require("./models/EventInfo.models");
 
 initializeDatabase();
 
-const jsonData = fs.readFileSync('events.json','utf-8' );
-const eventsData = JSON.parse(jsonData);
+// const jsonData = fs.readFileSync('events.json','utf-8' );
+// const eventsData = JSON.parse(jsonData);
 const express = require("express");
 const { error } = require("console");
 const app = express()
 require("dotenv").config();
 app.use(express.json());
+
+const cors = require("cors");
+const corsOptions = {
+  origin: "*",
+  credentials: true,
+  optionSuccessStatus: 200,
+};
+
+app.use(cors(corsOptions));
+
 
 
 // function seedData(){
